@@ -1,6 +1,5 @@
 package tr.org.kamp.linux.files;
 
-import java.awt.List;
 import java.lang.reflect.Executable;
 import java.util.ArrayList;
 

@@ -1,8 +1,5 @@
 package tr.org.kamp.linux.files;
 
-import java.lang.reflect.Executable;
-import java.util.ArrayList;
-
 public class ExecutableFile extends BinaryFile implements Openable{
 	
 	
