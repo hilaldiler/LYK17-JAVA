@@ -3,9 +3,11 @@ package tr.org.kamp.linux.Arrow;
 public class Armor extends Item implements Upgradeable {
 
 	protected int defansePoint=0;
-	protected boolean isWorn;
+	protected boolean isWorn=false;
 
 	
+
+
 	
 
 
